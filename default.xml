@@ -1,0 +1,6 @@
+<manifest>
+    <remote fetch="https://github.com" name="xyyangkun">
+    <default remote="xyyangkun" revision="refs/heads/master" sync-j="4">
+
+    <project name="xyyangkun/rootfs" path="rootfs">
+</manifest>
